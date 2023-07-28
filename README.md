@@ -1,6 +1,7 @@
 # MyShowz-Movie-ticket-booking-website
 It is a movie ticket booking website with front-end only. I designed it as a part of my HCI (human-computer interaction) project.
 It is available in both dark & light mode.
+https://samplemanigit.github.io/Movie-ticket-Booking-Website/
 
 # Glimpse of the Website
 ## Home page in the dark mode
